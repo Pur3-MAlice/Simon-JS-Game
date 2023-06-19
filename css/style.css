@@ -28,13 +28,13 @@ h2 {
 .circle1 {
     height: 500px;
     width: 500px;
-    background-color: #db8dfa;
+    background-color: #e90281;
 }
 
 .circle2 {
     height: 400px;
     width: 400px;
-    background-color: #f30cae;
+    background-color: #eb44b8;
     top: 50px;
     left: 50px;
 }

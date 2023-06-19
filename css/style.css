@@ -28,27 +28,27 @@ h2 {
 .circle1 {
     height: 500px;
     width: 500px;
-    background-color: #009FE3;
+    background-color: #db8dfa;
 }
 
 .circle2 {
     height: 400px;
     width: 400px;
-    background-color: #445261;
+    background-color: #f30cae;
     top: 50px;
     left: 50px;
 }
 .circle3 {
     height: 300px;
     width: 300px;
-    background-color: #EFB920;
+    background-color: #c77cf3;
     top: 100px;
     left: 100px;
 }
 .circle4 {
     height: 200px;
     width: 200px;
-    background-color: #23BBBB;
+    background-color: #7711b3;
     top: 150px;
     left: 150px;
 }
@@ -69,7 +69,7 @@ h2 {
 }
 
 .button {
-    background-color: #FF5A60;
+    background-color: #23a81e;
     color: #FFF;
     border: 0;
     height: 40px;

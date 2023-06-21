@@ -11,6 +11,8 @@ function newGame() {
      * Also maybe starts on after game failure
      */
     game.score = 0;
+    game.playerMoves = [];
+    game.currentGame = [];
 }
 
 module.exports = { game, newGame};

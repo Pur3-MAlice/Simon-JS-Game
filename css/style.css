@@ -4,7 +4,7 @@ body {
 
 h1 {
     font-weight: 300;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 h2 {
@@ -69,7 +69,7 @@ h2 {
 }
 
 .button {
-    background-color: #23a81e;
+    background-color: #4ada2d;
     color: #FFF;
     border: 0;
     height: 40px;
@@ -79,7 +79,7 @@ h2 {
     display: block;
     top: 550px;
     position: relative;
-    font-size: 16px;
+    font-weight: 600;
 }
 
 .light {
